@@ -1,10 +1,5 @@
 ## Greeting from Tasnuba Akter 👋
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=435&lines=B.S.c in CSE+%7C+6th+Semester;" alt="Typing SVG" />
-</p>
-
----
+## ID: 043***********14
 
 ## 🚀 About Me:
 - 🎓 **B.Sc. Engineer** (6th Semester)  
